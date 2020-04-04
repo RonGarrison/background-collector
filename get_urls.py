@@ -2,6 +2,11 @@
 import json
 import requests
 
+__author__ = "ronaldgarrison"
+__copyright__ = "Copyright 2020, Ronald Garrison"
+__license__ = "MIT License"
+__project__ = "background video collector"
+
 JSON_URL = "https://bzamayo.com/extras/apple-tv-screensavers.json"
 
 try:
